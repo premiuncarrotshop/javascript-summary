@@ -10,4 +10,5 @@
 ✔︎ <a href="https://velog.io/@benqu94/03%EC%9E%A5-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD%EA%B3%BC-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95">03장 자바스크립트 개발 환경과 실행 방법</a><br />
 ✔︎ <a href="https://velog.io/@benqu94/04%EC%9E%A5-%EB%B3%80%EC%88%98">04장 변수</a><br />
 ✔︎ <a href="https://velog.io/@benqu94/05%EC%9E%A5-%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EB%AC%B8">05장 표현식과 문</a><br />
-✔︎ <a href="https://velog.io/@benqu94/06%EC%9E%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85">06장 데이터 타입</a>
+✔︎ <a href="https://velog.io/@benqu94/06%EC%9E%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85">06장 데이터 타입</a><br />
+✔︎ <a href="https://velog.io/@benqu94/07%EC%9E%A5-%EC%97%B0%EC%82%B0%EC%9E%90">07장 연산자</a>
