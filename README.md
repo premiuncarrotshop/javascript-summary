@@ -12,4 +12,5 @@
 ✔︎ <a href="https://velog.io/@benqu94/05%EC%9E%A5-%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EB%AC%B8">05장 표현식과 문</a><br />
 ✔︎ <a href="https://velog.io/@benqu94/06%EC%9E%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85">06장 데이터 타입</a><br />
 ✔︎ <a href="https://velog.io/@benqu94/07%EC%9E%A5-%EC%97%B0%EC%82%B0%EC%9E%90">07장 연산자</a><br />
-✔︎ <a href="https://velog.io/@benqu94/08%EC%9E%A5-%EC%A0%9C%EC%96%B4%EB%AC%B8">08장 제어문</a>
+✔︎ <a href="https://velog.io/@benqu94/08%EC%9E%A5-%EC%A0%9C%EC%96%B4%EB%AC%B8">08장 제어문</a><br />
+✔︎ <a href="https://velog.io/@benqu94/09%EC%9E%A5-%ED%83%80%EC%9E%85-%EB%B3%80%ED%99%98%EA%B3%BC-%EB%8B%A8%EC%B6%95-%ED%8F%89%EA%B0%80">09장 타입 변환과 단축 평가</a><br />
