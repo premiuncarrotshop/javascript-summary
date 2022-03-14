@@ -16,3 +16,4 @@
 ✔︎ <a href="https://velog.io/@benqu94/09%EC%9E%A5-%ED%83%80%EC%9E%85-%EB%B3%80%ED%99%98%EA%B3%BC-%EB%8B%A8%EC%B6%95-%ED%8F%89%EA%B0%80">09장 타입 변환과 단축 평가</a><br />
 ✔︎ <a href="https://velog.io/@benqu94/10%EC%9E%A5-%EA%B0%9D%EC%B2%B4-%EB%A6%AC%ED%84%B0%EB%9F%B4">10장 객체 리터럴</a><br />
 ✔︎ <a href="https://velog.io/@benqu94/11%EC%9E%A5-%EC%9B%90%EC%8B%9C-%EA%B0%92%EA%B3%BC-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EB%B9%84%EA%B5%90">11장 원시 값과 객체의 비교</a><br />
+✔︎ <a href="https://velog.io/@benqu94/12%EC%9E%A5-%ED%95%A8%EC%88%98">12장 함수</a>
