@@ -19,4 +19,5 @@
 ✔︎ <a href="https://velog.io/@benqu94/12%EC%9E%A5-%ED%95%A8%EC%88%98">12장 함수</a><br />
 ✔︎ <a href="https://velog.io/@benqu94/12%EC%9E%A5-%EC%8A%A4%EC%BD%94%ED%94%84">13장 스코프</a><br />
 ✔︎ <a href="https://velog.io/@benqu94/14%EC%9E%A5-%EC%A0%84%EC%97%AD-%EB%B3%80%EC%88%98%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90">14장 전역 변수의 문제점</a><br />
-✔︎ <a href="https://velog.io/@benqu94/15%EC%9E%A5-let-const-%ED%82%A4%EC%9B%8C%EB%93%9C%EC%99%80-%EB%B8%94%EB%A1%9D-%EB%A0%88%EB%B2%A8-%EC%8A%A4%EC%BD%94%ED%94%84">15장 let, const 키워드와 블록 레벨 스코프</a>
+✔︎ <a href="https://velog.io/@benqu94/15%EC%9E%A5-let-const-%ED%82%A4%EC%9B%8C%EB%93%9C%EC%99%80-%EB%B8%94%EB%A1%9D-%EB%A0%88%EB%B2%A8-%EC%8A%A4%EC%BD%94%ED%94%84">15장 let, const 키워드와 블록 레벨 스코프</a><br />
+✔︎ <a href="https://velog.io/@benqu94/16%EC%9E%A5-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0-%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8">16장 프로퍼티 어트리뷰트</a>
